@@ -8,7 +8,6 @@
             "email": "ivoglent@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
     "bin": ["bin/ffmpeg", "bin/ffprobe"]
 }
