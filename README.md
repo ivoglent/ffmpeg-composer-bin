@@ -4,8 +4,8 @@ A simple repository for FFMPEG lib using PHP composer
 
 *Versions:*
 
-- ffmpeg version 4.4-static
-- ffprobe version 4.4-static
+- ffmpeg version 6.1-static
+- ffprobe version 6.1-static
 
 ## Installation
 
