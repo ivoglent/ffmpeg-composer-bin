@@ -13,6 +13,16 @@ A simple repository for FFMPEG lib using PHP composer
 composer require --prefer-dist -vvv --profile ivoglent/ffmpeg-composer-bin
 ```
 
+Use a specified major version in `composer.json` to get updates for this version.
+
+```json
+{
+  "require": {
+    "ivoglent/ffmpeg-composer-bin": "^6.0"
+  }
+}
+```
+
 ## Usage
 
 Binaries of FFMPEG lib stored on @vendor/bin
